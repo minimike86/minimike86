@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minimike86 / msec
+- 👋 Hi, I’m @minimike86 / aka msec
 - 👀 I’m interested in ... infosec, gaming, software engineering
 - 🌱 I’m currently learning ... aws security
 - 💞️ I’m looking to collaborate on ... twitch
